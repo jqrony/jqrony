@@ -1,0 +1,34 @@
+{
+  "title": "jQrony",
+  "name": "jqrony",
+  "version": "1.0.0",
+  "description": "jQrony is fast feature-rich pure Javascript library v1.0.0",
+  "main": "dist/jqrony.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jqrony/jqrony.git"
+  },
+  "keywords": [
+    "jqrony",
+    "javascript",
+    "selector",
+    "library",
+    "browser",
+    "chrome"
+  ],
+  "author": {
+    "name": "Shahzada Modassir",
+    "url": "https://github.com/jqrony/jqrony/blob/1.0.0/AUTHORS.txt"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jqrony/jqrony/issues"
+  },
+  "homepage": "https://github.com/jqrony/jqrony#readme",
+  "dependencies": {
+    "snizzle": "^1.2.0"
+  }
+}
