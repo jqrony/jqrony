@@ -1,0 +1,8 @@
+/dist/*
+!/dist/package.json
+
+/dist-module/*
+!/dist-module/package.json
+
+/external
+/node_modules
