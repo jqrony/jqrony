@@ -1,6 +1,5 @@
 # jqrony [![license](https://img.shields.io/github/license/jqrony/jqrony)](https://github.com/jqrony/jqrony/blob/main/LICENSE)
 ![author](https://img.shields.io/badge/Author-Shahzada%20Modassir-%2344cc11)
-![downloads](https://img.shields.io/npm/dt/snizzle?labelColor=%23555555)](https://www.npmjs.com/package/snizzle)
 
 > jqrony is a fast, small, and feature-rich JavaScript library.
 
