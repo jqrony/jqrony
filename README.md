@@ -1,4 +1,5 @@
 # jqrony [![license](https://img.shields.io/github/license/jqrony/jqrony)](https://github.com/jqrony/jqrony/blob/main/LICENSE)
+[![downloads month](https://img.shields.io/npm/dm/jqrony?style=flat-square)](https://www.npmjs.com/package/jqrony)
 ![author](https://img.shields.io/badge/Author-Shahzada%20Modassir-%2344cc11)
 [![Socket Badge](https://socket.dev/api/badge/npm/package/jqrony)](https://socket.dev/npm/package/jqrony)
 
