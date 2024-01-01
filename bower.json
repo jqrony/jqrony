@@ -2,9 +2,10 @@
   "name": "jqrony",
   "main": "dist/jqrony.js",
   "license": "MIT",
-	"version": "1.0.0",
+  "version": "1.1.0",
   "ignore": [
-    "package.json"
+    "package.json",
+    "node_modules"
   ],
   "keywords": [
     "jqrony",
