@@ -6,5 +6,6 @@ bower.json
 /dist-module/*
 !/dist-module/package.json
 
+/internal
 /external
 /node_modules
