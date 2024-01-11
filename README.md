@@ -5,6 +5,8 @@
 
 > jqrony is a fast, small, and feature-rich Pure JavaScript library.
 
+### Documentation soon
+
 ## Including jqrony
 
 Below are some of the most common ways to include jqrony.
