@@ -1,60 +1,37 @@
-# jqrony [![license](https://img.shields.io/github/license/jqrony/jqrony)](https://github.com/jqrony/jqrony/blob/main/LICENSE)
-[![downloads month](https://img.shields.io/npm/dm/jqrony?style=flat-square)](https://www.npmjs.com/package/jqrony)
-![author](https://img.shields.io/badge/Author-Shahzada%20Modassir-%2344cc11)
-[![Socket Badge](https://socket.dev/api/badge/npm/package/jqrony)](https://socket.dev/npm/package/jqrony)
+# jQrony
 
-> jqrony is a fast, small, and feature-rich Pure JavaScript library.
+> `jQrony is a fast, code-shortner, feature-rich, plugins-provider Javascript library.`
 
-### Documentation soon
+## Includes jQrony in Plugins
+* [Resurface](https://jqrony.ml/resurface/) `Resurface` is a pure Javascript number-to-word/word-to-num converter engine.
+* [Snizzle](https://jqrony.ml/snizzle/) `Snizzle` is a pure Javascript advance hot-selector engine.
+* [Clazzer](https://jqrony.ml/clazzer/) `Clazzer` is a pure Javascript HTML-Entity encode/decode plugin.
 
-## Including jqrony
+## jQrony Inventions
 
-Below are some of the most common ways to include jqrony.
+Comments                | Initial Date           | Finished Date
+------------------------|------------------------|---------------------------
+Code writing Initialize | 01-01-2023 AT 02:10 PM | 06-03-2023 AT 9:44:24 PM
 
-### Browser
-
-#### Script tag
-
-```html
-<script src="https://code.jqrony.com/jqrony-1.0.0.min.js"></script>
-```
-
-#### Webpack / Browserify / Babel
-
-There are several ways to use [Webpack](https://webpack.js.org/), [Browserify](http://browserify.org/) or [Babel](https://babeljs.io/). For more information on using these tools, please refer to the corresponding project's documentation. In the script, including jqrony will usually look like this:
-
-```js
-import $ from "jqrony";
-```
-
-If you need to use jqrony in a file that's not an ECMAScript module, you can use the CommonJS syntax:
-
-```js
-var $ = require( "jqrony" );
-```
-
-#### AMD (Asynchronous Module Definition)
-
-AMD is a module format built for the browser. For more information, we recommend [require.js' documentation](https://requirejs.org/docs/whyamd.html).
-
-```js
-define( [ "jqrony" ], function( $ ) {
-
-} );
-```
-
-### Node
-
-To include jqrony in [Node](https://nodejs.org/), first install with npm.
-
+## Downloading jqrony using npm or Yarn
 ```sh
 npm install jqrony
 ```
-
-For jqrony to work in Node, a window with a document is required. Since no such window exists natively in Node, one can be mocked by tools such as [jsdom](https://github.com/jsdom/jsdom). This can be useful for testing purposes.
-
-```js
-const { JSDOM } = require( "jsdom" );
-const { window } = new JSDOM( "" );
-const $ = require( "jqrony" )( window );
+As an alternative you can use the Yarn CLI command:
+```sh
+yarn add jqrony
 ```
+
+## Downloading jqrony using Bower
+```sh
+bower install jqrony
+```
+
+## How to build jqrony
+Clone a copy of the main jqrony git repo by running:
+```sh
+https://github.com/jqrony/jqrony.git
+```
+
+## About ---first jQrony
+`jQrony` Code writing initialize on 01-11-2022 AT 02:10 PM And Completed in 06-01-2023 AT 9:44:24 PM jQrony is a fast, code-shortner, feature-rich library. jQrony provide License under [**MIT**](https://github.com/jqrony/jqrony/blob/main/LICENSE) License. And provide free open source code. `jQrony` library created by **PRO Modassir** `<codingmodassir@gmail.com>` 
