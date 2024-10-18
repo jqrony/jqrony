@@ -1,6 +1,6 @@
 # jQrony
 
-> `jQrony is a fast, code-shortner, feature-rich, plugins-provider Javascript library.`
+> jQrony is a fast, code-shortner, feature-rich, plugins-provider Javascript library.
 
 ## Includes jQrony in Plugins
 * [Resurface](https://jqrony.ml/resurface/) `Resurface` is a pure Javascript number-to-word/word-to-num converter engine.
