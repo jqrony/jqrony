@@ -34,4 +34,4 @@ https://github.com/jqrony/jqrony.git
 ```
 
 ## About ---first jQrony
-`jQrony` Code writing initialize on 01-11-2022 AT 02:10 PM And Completed in 06-01-2023 AT 9:44:24 PM jQrony is a fast, code-shortner, feature-rich library. jQrony provide License under [**MIT**](https://github.com/jqrony/jqrony/blob/main/LICENSE) License. And provide free open source code. `jQrony` library created by **PRO Modassir** `<codingmodassir@gmail.com>` 
+`jQrony` Code writing initialize on 01-11-2022 AT 02:10 PM And Completed in 06-01-2023 AT 9:44:24 PM jQrony is a fast, code-shortner, feature-rich library. jQrony provide License under [**MIT**](https://github.com/jqrony/jqrony/blob/main/LICENSE) License. And provide free open source code. `jQrony` library created by **PRO Modassir** `<codingmodassir@gmail.com>`  
